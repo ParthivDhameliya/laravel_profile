@@ -1,0 +1,18 @@
+html, body{
+    height: 100%;
+}
+.container-fluid{
+    min-height: 100%;
+}
+a.nav-link{
+    color: whitesmoke;
+}
+a.nav-link:hover{
+    color: black;
+    background-color: rgb(255, 191, 0);
+}
+a.active{
+    color: black;
+    background-color: rgb(255, 187, 0);
+    font-weight: bold;
+}
